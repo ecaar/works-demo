@@ -1,4 +1,4 @@
-# works AI Demo
+# Fireworks AI Demo
 This project uses Fireworks AI platform powered by AMD GPU resources.
 
 ## Setup
